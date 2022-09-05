@@ -1,0 +1,19 @@
+{
+  "CN": "Custom Demo Intermediate CA",
+  "key": {
+    "algo": "rsa",
+    "size": 2048
+  },
+  "names": [
+    {
+      "C":  "DE",
+      "L":  "Munich",
+      "O":  "Custom Demo",
+      "OU": "Custom Demo Intermediate CA",
+      "ST": "Germany"
+    }
+  ],
+  "ca": {
+    "expiry": "42720h"
+  }
+}

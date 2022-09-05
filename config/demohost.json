@@ -1,0 +1,20 @@
+{
+  "CN": "demohost.opinionated.xyz",
+  "key": {
+    "algo": "rsa",
+    "size": 2048
+  },
+  "names": [
+  {
+    "C": "DE",
+    "L": "Munich",
+    "O": "Custom Demo",
+    "OU": "Custom Demo Hosts",
+    "ST": "Germany"
+  }
+  ],
+  "hosts": [
+    "demohost1.opinionated.xyz",
+    "localhost"
+  ]
+}

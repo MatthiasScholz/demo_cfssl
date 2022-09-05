@@ -1,0 +1,16 @@
+{
+  "CN": "Custom Demo Root CA",
+  "key": {
+    "algo": "rsa",
+    "size": 2048
+  },
+  "names": [
+  {
+    "C": "DE",
+    "L": "Munich",
+    "O": "Custom Demo",
+    "OU": "Custom Demo Root CA",
+    "ST": "Germany"
+  }
+ ]
+}
