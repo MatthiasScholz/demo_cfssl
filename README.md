@@ -2,11 +2,16 @@
 
 cfssls for certificate handling
 
+## Tasks
+
+- [ ] demonstrate usage of server
+
 ## Usage
 
 ```bash
 make install-macosx
 make demo
+make verify-client
 ```
 
 ## References
